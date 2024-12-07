@@ -1,6 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on my portfolio site.
-- 🌱 I’m currently learning Golang, MongoDB.
+- Open Source - Ranked 92nd with 39 merged PRs in GirlScript Summer of Code Extend 2024.
+- Second Year Undergraduate Student
+- Web Developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jainaryan04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainaryan04) 
